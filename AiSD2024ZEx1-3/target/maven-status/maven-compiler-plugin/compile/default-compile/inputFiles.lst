@@ -1,0 +1,14 @@
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/insort/InsertionSort.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/qsort/iterative/improvements/QuickSortIterativeRandom.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/qsort/iterative/QuickSortIterativeHoare.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/refsort/RefAlgSort.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/qsort/recursive/QuickSortRecursiveLomuto.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/heapsort/HeapSort.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/services/Sorting.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/qsort/iterative/improvements/QuickSortIterativeMedian3.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/qsort/recursive/QuickSortRecursiveHoare.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/qsort/iterative/QuickSortIterativeLomuto.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/mergesort/MergeSort.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/selectsort/SelectionSort.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/countingsort/CountingSort.java
+/Users/KontoStudia/Downloads/AiSD2024ZEx1 3/src/main/java/pl/edu/pw/ee/aisd2024zex1/sorters/qsort/iterative/improvements/QuickSortIterativeWithInSort.java
